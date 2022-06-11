@@ -8,6 +8,8 @@ Pull requests welcome!
 
 _– [Mathias](https://mathiasbynens.be/)_
 
+this fork is occasionally maintained by Sazoji
+
 ## License
 
 To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
@@ -60,6 +62,7 @@ To the extent possible under law, the author has waived all copyright and relate
 
 ### Languages
 - [ada .adb](ada.adb)
+- [Assembly](asm.s)
 - [awk .awk](awk.awk)
 - [batch](batch.bat)
 - [brainfuck](brainfuck.bf)
@@ -82,6 +85,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [Nim .nim](nim.nim)
 - [objective-c .m](objective-c.m)
 - [Objective CAML .ml](ocaml.ml)
+- [OpenQASM](qsmall.qasm)
 - [pascal .pas](pascal.pas)
 - [perl .pl](perl.pl)
 - [PHP: Hypertext Preprocessor .php](php.php)
@@ -114,7 +118,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [Cascading Style Sheets .css](css.css)
 - [eiffel](eiffel.e)
 - [elixir](elixir.ex)
-- [Git commit](https://github.com/mathiasbynens/small/commit/63a7f20c7b442c21bd9b6d4a80fdbea77e59dc6b)
+- [Git commit](https://github.com/sazoji/small/commit/63a7f20c7b442c21bd9b6d4a80fdbea77e59dc6b)
 - [groovy](groovy.groovy)
 - [haskell_loop](haskell_loop.hs)
 - [haskell_term](haskell_term.hs)
@@ -122,17 +126,18 @@ To the extent possible under law, the author has waived all copyright and relate
 - [International Color Consortium profile .icc](icc.icc)
 - [inform-6](inform-6.inf)
 - [intercal](intercal.i)
-
 - [jess](jess.clp)
-
 - [malbolge](malbolge.malbolge)
 - [cache manifest .appcache](manifest.appcache)
 - [opa](opa.opa)
-
 - [promela](promela.pml)
 - [scala](scala.scala)
 - [story](story.ni)
 - [tads-3](tads-3.t)
-- [typescript](typescript.ts)
+- [TypeScript](typescript.ts)
+- [TypeScript-JSX](TSX.tsx)
+- [JavaScript XML](JSX.jsx)
 - [vertex-shader](vertex-shader.vs)
 - [whitespace](whitespace.ws)
+- [BQN](small.bqn)
+- [UEFI](small.efi)
