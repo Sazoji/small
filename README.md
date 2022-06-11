@@ -136,7 +136,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [tads-3](tads-3.t)
 - [TypeScript](typescript.ts)
 - [TypeScript-JSX](TSX.tsx)
-- [JavaScript XML](JSX.jsx)
+- [JavaScript XML](jsx.jsx)
 - [vertex-shader](vertex-shader.vs)
 - [whitespace](whitespace.ws)
 - [BQN](small.bqn)
